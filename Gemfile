@@ -8,6 +8,7 @@ gem 'therubyracer', platforms: :ruby
 gem 'turbolinks'
 gem 'bourbon'
 gem 'neat'
+gem 'normalize-rails'
 
 group :development, :test do
   gem 'rspec-rails', '~> 3.0'
