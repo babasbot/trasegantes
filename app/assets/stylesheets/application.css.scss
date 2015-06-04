@@ -18,3 +18,8 @@
 @import "base/base";
 @import "neat";
 @import "home";
+@import "layout/base";
+
+div.container {
+  @include outer-container;
+}
