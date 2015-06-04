@@ -7,6 +7,7 @@ gem 'uglifier', '>= 1.3.0'
 gem 'therubyracer', platforms: :ruby
 gem 'turbolinks'
 gem 'bourbon'
+gem 'neat'
 
 group :development, :test do
   gem 'rspec-rails', '~> 3.0'
